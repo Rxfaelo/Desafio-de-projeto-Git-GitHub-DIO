@@ -1,0 +1,1 @@
+Este documento foi adicionado ao repositório através de minha máquina, onde realizei um GIT CLONE, agora irei subir ele à nuvem do GitHub com o comando GIT PUSH ORIGIN MASTER.
